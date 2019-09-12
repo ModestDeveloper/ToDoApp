@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.navbar {
+    height: 100px;
+    background-color: #333;
+    color: whitesmoke;
+    margin-bottom: 3px;
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtopic {
+    height: 10%;
+    background-color: #444;
+    color:white;
+    justify-content:center;
+    text-align:left;
+    display: flex; 
+}
+.checkbox {
+    margin-top:1px;
+    padding: 5px 4px 3px 15%;
+    text-align: left;
+    background-color: #555;
+    color:whitesmoke;
+}
+.warning {
+    color:red;
+    display:flex;
+    background-color:#ffffff;
+    position:absolute;
+    bottom:5px;
+    padding: 3px 4px 5px 4px;
+    align-items: center;
+}
